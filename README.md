@@ -2,6 +2,10 @@
 
 Este projeto faz parte dos estudos iniciais sobre variáveis.
 
+       (\_/)
+       ( •.•)
+      / >❤️
+
 ---
 
 ## 📝 Informações do Aluno

@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Rpg_Api.Data;
 
+
+//comentário commit Aula 03
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<DataContext>(options =>
